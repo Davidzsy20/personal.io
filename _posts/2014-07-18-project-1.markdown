@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 1
-date: 2017
+date: 2017-09-09
 img: cabin.png
 alt: image-alt
-project-date: 2017
+project-date: Sept-2017
 client: ME
 category: Web Development
 description: This is my home website. Feel free to click around.
