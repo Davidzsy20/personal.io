@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # personal.io
 =======
 Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
@@ -33,4 +33,4 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/freelanc
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
->>>>>>> 661e347aaa7b70e4475b22e0ff765487a1fa1e20
+
