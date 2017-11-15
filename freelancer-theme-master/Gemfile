@@ -1,3 +1,3 @@
-source "https://rubygems.org" //a
+source "https://rubygems.org"
 
 gem "jekyll"
