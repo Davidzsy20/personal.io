@@ -2,9 +2,9 @@
 title: David S. Zou
 email: davidzsy20@yahoo.com
 url: https://davidzsy20.github.io
-description: "I build everything."
-keywords: "Music saves my vibe."
-skills: "Full-Stack Software Engineer, DJ"
+description: "I build applications."
+keywords: "Music saves my life."
+skills: "Full-Stack Software Engineer"
 meta_author: David Zou
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. DJ.
+  copyright: David.z.
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -51,7 +51,7 @@ address:
   - line: Long Is City, NY 11101
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: ''
 
 # Build settings
 markdown: kramdown
