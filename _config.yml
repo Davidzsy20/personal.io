@@ -37,7 +37,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: twitter.com/Davidzsy20?lang=en
+    url: https://twitter.com/Davidzsy20?lang=en
   - title: facebook
     url: https://www.facebook.com/david.zou.144
   - title: stack-overflow
