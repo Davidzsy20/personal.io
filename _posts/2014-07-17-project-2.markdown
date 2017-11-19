@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2017-09-17
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: Sept 2017
 category: Web Development
 description: This is the gamming platform!
 link: https://hacker-arena.com/
