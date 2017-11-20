@@ -8,5 +8,5 @@ project-date: Sept-2017
 client: ME
 category: Web Development
 description: This is my home website. Feel free to click around.
-
+link: https://github.com/Davidzsy20/personal.io 
 ---

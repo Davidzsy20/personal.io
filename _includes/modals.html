@@ -5,7 +5,7 @@
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
                     <div class="rl">
-                    </div>
+                    </div> 
                 </div>
             </div>
             <div class="container">
@@ -17,16 +17,16 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="https://github.com/Davidzsy20/personal.io">{{ post.client }}</a>
+                                <!-- <li>Client:
+                                    <strong><a href={{post.link}}>{{ post.client }}</a>
                                     </strong>
-                                </li>
+                                </li> -->
                                 <li>Date:
-                                    <strong><a href="https://github.com/Davidzsy20/personal.io">{{ post.project-date }}</a>
+                                    <strong><a href={{post.link}}>{{ post.project-date }}</a>
                                     </strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="https://github.com/Davidzsy20/personal.io">{{ post.category }}</a>
+                                <li>Github:
+                                    <strong><a href={{post.link}}>{{ post.category }}</a>
                                     </strong>
                                 </li>
                             </ul>
