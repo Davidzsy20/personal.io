@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Sept-2017
 client: ME
 category: Web Development
-description: This is my home website. Feel free to click around.
+description: This is my home website. Feel free to click around.Please note that all are good.
 link: https://github.com/Davidzsy20/personal.io 
 ---
