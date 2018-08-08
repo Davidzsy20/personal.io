@@ -4,8 +4,8 @@ modal-id: 2
 date: 2017-09-17
 img: cake.png
 alt: image-alt
-project-date: Sept 2017
-category: Web Development
+project-date: June 2017-
+category: Hacker Arena (click to visit)
 description: This is the gamming platform that allows players to challenge each others with coding game. The program features embeded Ace editor for better user experience. Four game modes that can be found in this platform are 'Classic Mode', 'Pair Mode', 'Code Run', and 'Solo Mode'. Google, Facebook and Email OAth flow are built in to allow faster signing up. <h1> Tech Stack: React, Redux, React Router v4, Webpack, Firebase, Nightmare JS, Jest JS. </h1>
 link: https://hacker-arena.com/
 ---
