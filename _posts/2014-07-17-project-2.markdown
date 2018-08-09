@@ -1,10 +1,11 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 1
 date: 2017-09-17
 img: cake.png
 alt: image-alt
 project-date: June 2017-
+client: 2
 category: React, Redux, Webpack, Firebase, Nightmare.js
 description: A gamming platform that allows players to challenge each others with coding game. Four modes are Classic Mode, Pair Mode, Code Run, and Solo Mode. Utilzed Google, Facebook and Email OAth flow to allow faster signing up.  
 link: https://hacker-arena.com/
