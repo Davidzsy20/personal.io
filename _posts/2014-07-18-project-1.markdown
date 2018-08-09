@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Sept-2017
 client: ME
 category: Web Development
-description: This is the gamming platform that allows players to challenge each others with coding game.  Four modes are Classic Mode, Pair Mode, Code Run, and Solo Mode. Utilzed Google, Facebook and Email OAth flow to allow faster signing up. Tech Stack: React, Redux, React Router v4, Webpack, Firebase, Nightmare JS, Jest JS Eslinter.
+description: This is the gamming
 link: https://github.com/Davidzsy20/personal.io 
 ---
