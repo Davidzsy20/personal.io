@@ -5,7 +5,7 @@ date: 2014-07-15
 img: game.png
 alt: image-alt
 project-date: July 2017
-client: Start Bootstrap
+client: https://github.com/GraphGiraffes/PartyStarty
 category: React, Node.js, Express.js, Webpack, ReactBootstrap
 description: PartyStarty is an event organize application. The current release is focusing on movie night event. The user will be able to, create event,search movie, share event with friends, and friends can vote on the existing movies or add new movies
 
