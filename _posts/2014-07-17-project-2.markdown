@@ -5,7 +5,7 @@ date: 2017-09-17
 img: cake.png
 alt: image-alt
 project-date: June 2017-
-category: Hacker Arena
-description:  
+category: Tech Stack: React, Redux, React Router v4, Webpack, Firebase, Nightmare JS, Jest JS Eslinter. 
+description: A gamming platform that allows players to challenge each others with coding game.  Four modes are Classic Mode, Pair Mode, Code Run, and Solo Mode. Utilzed Google, Facebook and Email OAth flow to allow faster signing up.  
 link: https://hacker-arena.com/
 ---
