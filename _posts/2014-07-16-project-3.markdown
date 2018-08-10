@@ -7,6 +7,6 @@ img: circus.png
 alt: image-alt
 project-date: Augest 2017
 category: React.JS, Node, Express.js, Socket.IO, MongoDb, Google api.ai, Postman
-description: Chat It is a chatbot application that allows users to talk to an AI and get vocal responses from the Express server and Socket to communicate with Google ai API. Clients can get real-time responses from the chatbot by clicking the button at the center.
+description: Chat It is a chatbot application that allows users to talk to an AI and get vocal&verbal responses from the Express server and Socket to communicate with Google ai API. Clients can get real-time responses from the chatbot by clicking the button at the center.
 
 ---
