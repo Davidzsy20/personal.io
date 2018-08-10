@@ -9,6 +9,6 @@ alt: image-alt
 project-date: July 2017
 client: https://github.com/GraphGiraffes/PartyStarty
 category: React, Node.js, Express.js, Webpack, ReactBootstrap
-description: PartyStarty is an event organizing application. The current release is focusing on movie night event. The user  can, create an event, search a movie, share the event with friends, and users can vote on the existing movies or add new movies. I handled Backend RESTful API,Express Sever, and Database Schema artecture in this project.
+description: Party-Starty is an event organizing application. The current release is focusing on movie night event. The users can, create an event, search a movie, share the event with friends, vote on the existing movies and add new movies. I handled backend RESTful API, Express Sever, and Database Schema architecture in this project.
 
 ---
