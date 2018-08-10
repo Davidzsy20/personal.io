@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+title: Chat It
+date: 2017-08-16
+img: circus.png
+alt: image-alt
+project-date: Augest 2017
+category: React.JS, Node, Express.js, Socket.IO, MongoDb, Google api.ai, Postman, 
+description: Chat it is a chat bot application that allows user to talk to an AI and get vocal responses from the Express server and Socket to communicate to Google ai api. Client can get real time response from the chatbot by clicking the button at the center.
+
+---
