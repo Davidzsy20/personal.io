@@ -2,11 +2,11 @@
 layout: default
 modal-id: 1
 title: Emaily
-date: 2017-09-09
+date: 2018-06-06
 link: https://github.com/Davidzsy20/Jump 
 img: cabin.png
 alt: image-alt
-project-date: Sept-2017
+project-date: June-2018
 client: https://github.com/Davidzsy20/Jump
 category: Node-Strip, Goolge OAth api, Express.js, React, Redux, Materilize, MongoDB, Mongoose, Heroku
 description: Emaily is a service that allows users to send out emails to hundreds recipants by refill their credits with Stripe. The program designed with security in mind to handle sensitive data using passport.js and node caching/middlewares. It is made to production and hosted on Heroku.
