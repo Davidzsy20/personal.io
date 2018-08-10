@@ -8,6 +8,6 @@ alt: image-alt
 project-date: June 2017-
 client: http://www.hacker-arena.com/
 category: React, Redux, Webpack, Firebase, Nightmare.js, Namecheap.
-description: Hacker Arena gaming platform that allows players to challenge each other with the coding game. Four game modes are Classic Mode, Pair Mode, Code Run, and Solo Mode. Utilized Google, Facebook, and email OAth flow to allow faster user sign-up. The project strictly follows Agile Scrum to build a feature-rich user interface.  
+description: Hacker Arena is a gaming platform that allows players to challenge each other with coding games. Four game modes are Classic Mode, Pair Mode, Code Run, and Solo Mode. The WebRTC techonology is embeded in this system to allow face to face conference while playing.I utilized Google, Facebook, and email OAth flow to allow faster user sign-up. The project strictly follows Agile Scrum for a feature-rich user interface.  
 link: http://www.hacker-arena.com/
 ---
