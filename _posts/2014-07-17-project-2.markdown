@@ -1,12 +1,13 @@
 ---
 layout: default
 modal-id: 2
+title: Hacker Arena
 date: 2017-09-17
 img: cake.png
 alt: image-alt
 project-date: June 2017-
-client: https://hacker-arena.com/
-category: React, Redux, Webpack, Firebase, Nightmare.js
-description: A gamming platform that allows players to challenge each others with coding game. Four game modes are Classic Mode, Pair Mode, Code Run, and Solo Mode. Utilzed Google, Facebook and email OAth flow to allow faster signing up.  
-link: https://hacker-arena.com/
+client: http://www.hacker-arena.com/
+category: React, Redux, Webpack, Firebase, Nightmare.js, Namecheap.
+description: Hacker Arena gamming platform that allows players to challenge each others with coding game. Four game modes are Classic Mode, Pair Mode, Code Run, and Solo Mode. Utilzed Google, Facebook and email OAth flow to allow faster signing up. The project is strictly follow Agile Scrum to build a feature rich user interface.    
+link: http://www.hacker-arena.com/
 ---
