@@ -2,11 +2,11 @@
 layout: default
 modal-id: 1
 date: 2017-09-09
+link: https://github.com/Davidzsy20/Jump 
 img: cabin.png
 alt: image-alt
 project-date: Sept-2017
-client: ME
-category: Node-Strip, Express, React, Redux, Materilize css, Heroku
-description: This is a service that allows user to refill their credit to send emails to many recipants. The program designed to handle sensitive data by using passport and node modules. It is made to production and hosted on Heroku.
-link: https://github.com/Davidzsy20/personal.io 
+client: https://github.com/Davidzsy20/Jump
+category: Node-Strip, Goolge OAth api, Express, React, Redux, Materilize, MongoDB, Mongoose, Heroku
+description: Emaily is a service that allows user to refill their credit to send emails to many recipants. The program designed to with security in mind to handle sensitive data using passport.js and node caching. It is made to production and hosted on Heroku.
 ---
