@@ -9,6 +9,6 @@ alt: image-alt
 project-date: 2 2018
 client: https://davidzsy20.github.io/soundPad/
 category: Javascript, Paper.js, HOWLER.js, CSS, HTML
-description: SoundPad is an application that can response to keystrokes with a melody and an animation. Try it out!
+description: SoundPad is an application that can respond to keystrokes with a melody and an animation. Try it out!
 
 ---
