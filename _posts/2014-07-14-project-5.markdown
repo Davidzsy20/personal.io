@@ -9,6 +9,6 @@ alt: image-alt
 project-date: April 2018
 client: https://www.lovesurvive.org
 category: Adobe.XD, React, SCSS, Webpack, NPM
-description: Love Survive is a live music agency. In this project, I gain experience with UI/UX design in Adobe.XD, fast prototyping, responsive design/development, Wechat miniprogram managment. I also refactor HTML, CSS to React component and configured SCSS in React Webpack build environment.
+description: Love Survive is a live music agency. By building a single page website for this company, I takled UI/UX design in Adobe.XD, fast prototyping, responsive design/development, Wechat miniprogram management. I also refactor HTML, CSS to React component and configured SCSS in React Webpack build environment.
 
 ---
