@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+title: Emaily
 date: 2017-09-09
 link: https://github.com/Davidzsy20/Jump 
 img: cabin.png
